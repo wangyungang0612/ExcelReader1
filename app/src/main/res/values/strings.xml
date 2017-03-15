@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExcelReader</string>
+    <string name="create_qr_code">生成二维码</string>
+    <string name="excel">读取 EXCEL 文件</string>
+    <string name="qr_code">qrCode</string>
+    <string name="sn">输入 SN 号码</string>
+    <string name="query">查询</string>
+</resources>
